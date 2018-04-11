@@ -1,0 +1,14 @@
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\Infra.CrossCutting.IoC.csprojResolveAssemblyReference.cache
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\Infra.CrossCutting.IoC.deps.json
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\Infra.CrossCutting.IoC.dll
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\Infra.CrossCutting.IoC.pdb
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\Infra.Data.dll
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\Infra.Data.pdb
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\Infra.CrossCutting.IoC.dll
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\Infra.CrossCutting.IoC.pdb
