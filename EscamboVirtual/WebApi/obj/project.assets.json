@@ -4746,6 +4746,50 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      },
+      "Infra.CrossCutting.IoC/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Domain": "1.0.0",
+          "Infra.Data": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "2.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Infra.CrossCutting.IoC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infra.CrossCutting.IoC.dll": {}
+        }
+      },
+      "Infra.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore.Design": "2.0.1",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.0.1",
+          "Microsoft.EntityFrameworkCore.Tools": "2.0.1",
+          "Microsoft.Extensions.Configuration": "2.0.0",
+          "Microsoft.Extensions.Configuration.FileExtensions": "2.0.0",
+          "Microsoft.Extensions.Configuration.Json": "2.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Infra.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infra.Data.dll": {}
+        }
       }
     }
   },
@@ -12527,10 +12571,27 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
+    },
+    "Infra.CrossCutting.IoC/1.0.0": {
+      "type": "project",
+      "path": "../Infra.CrossCutting.IoC/Infra.CrossCutting.IoC.csproj",
+      "msbuildProject": "../Infra.CrossCutting.IoC/Infra.CrossCutting.IoC.csproj"
+    },
+    "Infra.Data/1.0.0": {
+      "type": "project",
+      "path": "../Infra.Data/Infra.Data.csproj",
+      "msbuildProject": "../Infra.Data/Infra.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "Infra.CrossCutting.IoC >= 1.0.0",
+      "Infra.Data >= 1.0.0",
       "Microsoft.AspNetCore.All >= 2.0.6",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
@@ -12564,7 +12625,14 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\wj070\\Desktop\\Programas\\Projetos\\Lp2\\EscamboVirtual\\EscamboVirtual\\Infra.CrossCutting.IoC\\Infra.CrossCutting.IoC.csproj": {
+              "projectPath": "C:\\Users\\wj070\\Desktop\\Programas\\Projetos\\Lp2\\EscamboVirtual\\EscamboVirtual\\Infra.CrossCutting.IoC\\Infra.CrossCutting.IoC.csproj"
+            },
+            "C:\\Users\\wj070\\Desktop\\Programas\\Projetos\\Lp2\\EscamboVirtual\\EscamboVirtual\\Infra.Data\\Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\wj070\\Desktop\\Programas\\Projetos\\Lp2\\EscamboVirtual\\EscamboVirtual\\Infra.Data\\Infra.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
