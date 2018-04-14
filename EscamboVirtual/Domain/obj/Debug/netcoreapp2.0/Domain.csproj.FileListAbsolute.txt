@@ -1,9 +1,0 @@
-C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Domain\bin\Debug\netcoreapp2.0\Domain.deps.json
-C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Domain\bin\Debug\netcoreapp2.0\Domain.dll
-C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Domain\bin\Debug\netcoreapp2.0\Domain.pdb
-C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Domain\obj\Debug\netcoreapp2.0\Domain.csprojResolveAssemblyReference.cache
-C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Domain\obj\Debug\netcoreapp2.0\Domain.csproj.CoreCompileInputs.cache
-C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfoInputs.cache
-C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfo.cs
-C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Domain\obj\Debug\netcoreapp2.0\Domain.dll
-C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\Domain\obj\Debug\netcoreapp2.0\Domain.pdb

@@ -1,9 +1,0 @@
-C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\EscamboVirtual\bin\Debug\netstandard2.0\EscamboVirtual.deps.json
-C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\EscamboVirtual\bin\Debug\netstandard2.0\EscamboVirtual.dll
-C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\EscamboVirtual\bin\Debug\netstandard2.0\EscamboVirtual.pdb
-C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\EscamboVirtual\obj\Debug\netstandard2.0\EscamboVirtual.csprojResolveAssemblyReference.cache
-C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\EscamboVirtual\obj\Debug\netstandard2.0\EscamboVirtual.csproj.CoreCompileInputs.cache
-C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\EscamboVirtual\obj\Debug\netstandard2.0\EscamboVirtual.AssemblyInfoInputs.cache
-C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\EscamboVirtual\obj\Debug\netstandard2.0\EscamboVirtual.AssemblyInfo.cs
-C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\EscamboVirtual\obj\Debug\netstandard2.0\EscamboVirtual.dll
-C:\Users\wj070\Desktop\Programas\Projetos\Lp2\EscamboVirtual\EscamboVirtual\EscamboVirtual\obj\Debug\netstandard2.0\EscamboVirtual.pdb
