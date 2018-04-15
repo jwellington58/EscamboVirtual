@@ -1,4 +1,6 @@
 ﻿using Domain.Repositories;
+using Domain.Services;
+using Domain.Services.Impl;
 using Infra.Data.Repositories;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -22,6 +24,21 @@ namespace Infra.CrossCutting.IoC
             services.AddScoped<IPessoaRepository, PessoaRepository>();
             services.AddScoped<ITrocaRepository, TrocaRepository>();
             services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+
+            //Services
+
+            services.AddScoped<IAutorService, AutorService>();
+            services.AddScoped<ICategoriaService, CategoriaService>();
+            services.AddScoped<IEnderecoService, EnderecoService>();
+            services.AddScoped<IExemplarService, ExemplarService>();
+            services.AddScoped<ILivroService, LivroService>();
+            services.AddScoped<ILivroAutorService, LivroAutorService>();
+            services.AddScoped<IPessoaService, PessoaService>();
+            services.AddScoped<ITrocaService, TrocaService>();
+            services.AddScoped<IUsuarioService, UsuarioService>();
+
+            //COntrollers
+
 
         }
 
