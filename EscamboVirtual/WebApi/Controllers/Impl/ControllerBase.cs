@@ -8,7 +8,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace WebApi.Controllers.Impl
-{
+{   [Route("api/[controller]")]
     public abstract class ControllerBase<T> : Controller, IControllerBase<T> where T : class, IEntity, new()
     {
         private readonly IServiceBase<T> _service;

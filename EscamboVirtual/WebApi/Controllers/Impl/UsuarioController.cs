@@ -9,7 +9,7 @@ namespace WebApi.Controllers.Impl
 {
     public class UsuarioController : ControllerBase<Usuario>, IUsuarioController
     {
-        public UsuarioController(IServiceBase<Usuario> service) : base(service)
+        public UsuarioController(IUsuarioService service) : base(service)
         {
         }
     }

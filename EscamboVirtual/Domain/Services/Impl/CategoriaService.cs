@@ -8,7 +8,7 @@ namespace Domain.Services.Impl
 {
     public class CategoriaService : ServiceBase<Categoria>, ICategoriaService
     {
-        protected CategoriaService(IRepositoryBase<Categoria> repository) : base(repository)
+        protected CategoriaService(ICategoriaRepository repository) : base(repository)
         {
         }
     }

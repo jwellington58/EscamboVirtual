@@ -9,7 +9,7 @@ namespace WebApi.Controllers.Impl
 {
     public class TrocaController : ControllerBase<Troca>, ITrocaController
     {
-        public TrocaController(IServiceBase<Troca> service) : base(service)
+        public TrocaController(ITrocaService service) : base(service)
         {
         }
     }

@@ -9,7 +9,7 @@ namespace WebApi.Controllers.Impl
 {
     public class AutorController : ControllerBase<Autor>, IAutorController
     {
-        public AutorController(IServiceBase<Autor> service) : base(service)
+        public AutorController(IAutorService service) : base(service)
         {
         }
     }

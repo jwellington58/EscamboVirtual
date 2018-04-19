@@ -9,7 +9,7 @@ namespace WebApi.Controllers.Impl
 {
     public class PessoaController : ControllerBase<Pessoa>, IPessoaController
     {
-        public PessoaController(IServiceBase<Pessoa> service) : base(service)
+        public PessoaController(IPessoaService service) : base(service)
         {
         }
     }

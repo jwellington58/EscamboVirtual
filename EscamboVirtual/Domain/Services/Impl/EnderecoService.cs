@@ -8,7 +8,7 @@ namespace Domain.Services.Impl
 {
     public class EnderecoService : ServiceBase<Endereco>, IEnderecoService
     {
-        protected EnderecoService(IRepositoryBase<Endereco> repository) : base(repository)
+        protected EnderecoService(IEnderecoRepository repository) : base(repository)
         {
         }
     }

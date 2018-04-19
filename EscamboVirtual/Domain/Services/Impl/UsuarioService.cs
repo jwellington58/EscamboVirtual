@@ -8,7 +8,7 @@ namespace Domain.Services.Impl
 {
     public class UsuarioService : ServiceBase<Usuario>, IUsuarioService
     {
-        protected UsuarioService(IRepositoryBase<Usuario> repository) : base(repository)
+        protected UsuarioService(IUsuarioRepository repository) : base(repository)
         {
         }
     }

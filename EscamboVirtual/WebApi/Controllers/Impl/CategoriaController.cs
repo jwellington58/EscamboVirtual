@@ -9,7 +9,7 @@ namespace WebApi.Controllers.Impl
 {
     public class CategoriaController : ControllerBase<Categoria>, ICategoriaController
     {
-        public CategoriaController(IServiceBase<Categoria> service) : base(service)
+        public CategoriaController(ICategoriaService service) : base(service)
         {
         }
     }

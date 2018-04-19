@@ -8,7 +8,7 @@ namespace Domain.Services.Impl
 {
     public class TrocaService : ServiceBase<Troca>, ITrocaService
     {
-        protected TrocaService(IRepositoryBase<Troca> repository) : base(repository)
+        protected TrocaService(ITrocaRepository repository) : base(repository)
         {
         }
     }

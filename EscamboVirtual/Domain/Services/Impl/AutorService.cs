@@ -8,7 +8,7 @@ namespace Domain.Services.Impl
 {
     public class AutorService : ServiceBase<Autor>, IAutorService
     {
-        public AutorService(IRepositoryBase<Autor> repository) : base(repository)
+        public AutorService(IAutorRepository repository) : base(repository)
         {
         }
     }

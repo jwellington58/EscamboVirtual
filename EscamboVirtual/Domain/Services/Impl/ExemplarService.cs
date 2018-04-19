@@ -8,7 +8,7 @@ namespace Domain.Services.Impl
 {
     public class ExemplarService : ServiceBase<Exemplar>, IExemplarService
     {
-        protected ExemplarService(IRepositoryBase<Exemplar> repository) : base(repository)
+        protected ExemplarService(IExemplarRepositoy repository) : base(repository)
         {
         }
     }

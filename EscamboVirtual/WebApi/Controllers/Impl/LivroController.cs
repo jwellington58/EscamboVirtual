@@ -9,7 +9,7 @@ namespace WebApi.Controllers.Impl
 {
     public class LivroController : ControllerBase<Livro>, ILivroController
     {
-        public LivroController(IServiceBase<Livro> service) : base(service)
+        public LivroController(ILivroService service) : base(service)
         {
         }
     }

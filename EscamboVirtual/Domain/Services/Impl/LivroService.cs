@@ -8,7 +8,7 @@ namespace Domain.Services.Impl
 {
     public class LivroService : ServiceBase<Livro>, ILivroService
     {
-        protected LivroService(IRepositoryBase<Livro> repository) : base(repository)
+        protected LivroService(ILivroRepository repository) : base(repository)
         {
         }
     }

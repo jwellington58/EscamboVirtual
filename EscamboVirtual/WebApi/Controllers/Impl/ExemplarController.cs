@@ -9,7 +9,7 @@ namespace WebApi.Controllers.Impl
 {
     public class ExemplarController : ControllerBase<Exemplar>, IExemplarController
     {
-        public ExemplarController(IServiceBase<Exemplar> service) : base(service)
+        public ExemplarController(IExemplarService service) : base(service)
         {
         }
     }
