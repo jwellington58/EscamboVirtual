@@ -8,7 +8,7 @@ namespace Domain.Services.Impl
 {
     public class PessoaService : ServiceBase<Pessoa>, IPessoaService
     {
-        protected PessoaService(IPessoaRepository repository) : base(repository)
+        public PessoaService(IPessoaRepository repository) : base(repository)
         {
         }
     }
